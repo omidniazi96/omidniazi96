@@ -1,5 +1,6 @@
-## Hi there 👋
-
+👋 Hi, I’m Omid Niazi
+👀 I’m interested in Software Engineering, Problem Solving, Sharing knowlege.
+🌱 I’m currently learning Cloud Native Java Application Development
 <!--
 **omidniazi96/omidniazi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
